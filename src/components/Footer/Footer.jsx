@@ -102,7 +102,7 @@ const Footer = () => {
         variant='caption'
         component='p' 
         >
-          &copy; 2024 InfoTech Inc.
+          &Copy; 2024 InfoTech Inc.
         </Typography>
       </StackColumn>
     </BoxRow>
